@@ -28,7 +28,7 @@ __Resist the urge to "wing it"__. It's tempting to rely on your natural charm, b
   * __Be detail oriented__
   * Leave out one feature, see the below:
 * Discuss a challenge or difficulty that was overcome (this is a common phone screen question, it's good to practice)
-  * People empathize over struggle -- this shit ain't east
+  * People empathize over struggle -- this shit ain't easy
   * Remember that time you got *that one thing* working, __FINALLY?__  
     * Talk about that.
   * Then demo the result of that thing. Especially if it ends up being a small thing, or a simple solution
