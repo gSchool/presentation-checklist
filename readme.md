@@ -24,18 +24,18 @@ __Resist the urge to "wing it"__. It's tempting to rely on your natural charm, b
 
 
 #### Outline Template:
-* Give a high level summary:
+* Give a high level summary.
   * Briefly, __introduce__ yourself, then tell:
   * __What__ does your application do?
   * __Why__ did you choose this project?
   * __How__ did you accomplish these tasks?
-* Give a demo
+* Give a demo.
   * Highlight all your killer features:
   * __Be detail oriented__.
   * Leave out one feature, see the below:
 * Discuss a challenge or difficulty that was overcome (this is a common phone screen question, it's good to practice).
   * People empathize over struggle -- this shit ain't easy.
-  * Remember that time you got *that one thing* working, __FINALLY?__.
+  * Remember that time you got *that one thing* working, __FINALLY?__
     * Talk about that.
   * Then demo the result of that thing. Especially if it ends up being a small thing, or a simple solution.
     * Then everyone laughs because they get it.
