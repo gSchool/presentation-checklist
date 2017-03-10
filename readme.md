@@ -2,7 +2,12 @@
 
 ### 0. Have Working Code
 
-Start with the basics -- to demo your code it needs to work!  Make a branch __right now__ with the code in a working state. This way you can keep working and know that if you don't finish that last little bit in time, you can `git checkout beta-demo`.
+Start with the basics -- to demo your code it needs to work!  Make a branch __right now__ with the code in a working state, then go back to where you were:
+```
+git checkout -b beta-demo1
+git checkout feature-I-was-working-on
+```
+This way you can keep working and know that if you don't finish that last little bit in time, you can `git checkout beta-demo1`.
 
 * If your current build is broken consider reverting or rolling back to a previous commit. It is possible to undo quite a lot: [read how](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * This is especially easy if you have been branching and committing often.
@@ -20,19 +25,20 @@ __Resist the urge to "wing it"__. It's tempting to rely on your natural charm, b
 
 #### Outline Template:
 * Give a high level summary:
+  * Briefly, __introduce__ yourself, then tell:
   * __What__ does your application do?
   * __Why__ did you choose this project?
   * __How__ did you accomplish these tasks?
 * Give a demo
   * Highlight all your killer features:
-  * __Be detail oriented__
+  * __Be detail oriented__.
   * Leave out one feature, see the below:
-* Discuss a challenge or difficulty that was overcome (this is a common phone screen question, it's good to practice)
-  * People empathize over struggle -- this shit ain't easy
-  * Remember that time you got *that one thing* working, __FINALLY?__  
+* Discuss a challenge or difficulty that was overcome (this is a common phone screen question, it's good to practice).
+  * People empathize over struggle -- this shit ain't easy.
+  * Remember that time you got *that one thing* working, __FINALLY?__.
     * Talk about that.
-  * Then demo the result of that thing. Especially if it ends up being a small thing, or a simple solution
-    * then everyone laughs because they get it.
+  * Then demo the result of that thing. Especially if it ends up being a small thing, or a simple solution.
+    * Then everyone laughs because they get it.
 
 
 ### 2. Practice *out loud*
@@ -40,11 +46,13 @@ __Resist the urge to "wing it"__. It's tempting to rely on your natural charm, b
 Go find a quiet corner, or use http://members.galvanize.com to book a conference room for 30 minutes. Film yourself giving your presentation using your computer or phone. Consider capturing a screen cast of the demo.
 
 * Yes, it sometimes looks ridiculous.
-* Yes, watching yourself is painful
+* Yes, watching yourself is painful.
 * Yes, it's worth it.
 * Doing this alone will make your presentation 1000x better.
 
 > Pro-tip: you can use a screen cast as your presentation, and talk over the video of you using the app. This way your app never breaks on the big screen.
+
+> Tip from toastmasters (hint): if you are the type that gets nervous, 100% memorize your introduction, learn to say it frontwards and backwards. That way, when you are in front of the crowd, you will say it on autopilot, and by the time you are done, your adrenaline rush should be finished.
 
 
 ### Final Note: Be Mindful of The Time
