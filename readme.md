@@ -16,7 +16,7 @@ This way you can keep working and know that if you don't finish that last little
 
 > While developing err on the side of __over committing__. [Insert joke about romance here].
 
-### 1. Write an outline:
+### 1. Write an outline
 
 Consider writing it on paper -- so you can see it *while* you're demoing your app. It's amazing how much you can forget in front of a room full of people. Having a plan for demoing your app, and *having that plan on your podium* will keep you focused on the things you want to highlight most.
 
